@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 I’m a technology enthusiast with a passion for **AI**, **IoT**, and **scalable software solutions**.  
-Currently engineer **Research & Technology** at an IT company, delivering innovations in AI-powered applications and connected devices.
+Currently a Master's student at Institut Teknologi Bandung, focusing on AI, and an engineer in **Research & Technology** at an IT company, delivering innovations in AI-powered applications and connected devices.
 
 - 🔭 **Current Focus**: AI-driven automation & IoT product development  
 - 🛠 **Tech Expertise**: Frontend, Backend, Mobile, and Embedded Systems  
@@ -49,7 +49,7 @@ Currently engineer **Research & Technology** at an IT company, delivering innova
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julyan%20Widianto-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/julyanwidianto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julyan%20Widianto-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/julyan-widianto)  
 📧 **Email**: _julyan.widianto@gmail.com_  
 🌐 **Website**: _Coming Soon_
 
