@@ -1,5 +1,5 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&width=600&lines=Hi%2C+I'm+Julyan+Widianto;AI+%26+IoT+Engineer;Full-Stack+Developer;Let's+Build+Something+Awesome!)](https://gitlab.com/sultanjulyan)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&width=600&lines=Hi%2C+I'm+Julyan+Widianto;AI+%26+IoT+Engineer;Full-Stack+Developer;Let's+Build+Something+Awesome!)](https://gitlab.com/sultanjulyan) -->
 
 # 👋 Hi, I'm Julyan Widianto  
 💡 AI & IoT Engineer | Full-Stack Developer  
