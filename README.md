@@ -55,5 +55,5 @@ Currently a Master's student at Institut Teknologi Bandung, focusing on AI, and 
 
 ---
 
-> _"Technology is not just about solving problems — it’s about creating possibilities and business."_  
+> _"Technology is not just about solving problems. It’s about creating possibilities and business."_  
 — **Julyan Widianto**
