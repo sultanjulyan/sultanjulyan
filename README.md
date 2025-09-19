@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 I’m a technology enthusiast with a passion for **AI**, **IoT**, and **scalable software solutions**.  
-Currently a Master's student at Institut Teknologi Bandung, focusing on AI, and an engineer in **Research & Technology** at an IT company, delivering innovations in AI-powered applications and connected devices.
+Currently a Master's student at Institut Teknologi Bandung, focusing on AI, and an engineer in **Research & Technology**.
 
 - 🔭 **Current Focus**: AI-driven automation & IoT product development  
 - 🛠 **Tech Expertise**: Frontend, Backend, Mobile, and Embedded Systems  
